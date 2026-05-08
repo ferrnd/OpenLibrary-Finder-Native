@@ -141,7 +141,7 @@ const styles = StyleSheet.create({
     padding: 20,
     borderRadius: 15,
     borderLeftWidth: 5,
-    borderLeftColor: '#6200EE',
+    borderLeftColor: '#000000',
     elevation: 4,
   },
   label: {
